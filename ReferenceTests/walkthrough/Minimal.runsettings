@@ -2,7 +2,7 @@
 <RunSettings>
 
   <Catch2Adapter>
-    <FilenameFilter>^Catch_</FilenameFilter>
+    <FilenameFilter>^Catch</FilenameFilter>
   </Catch2Adapter>
 
 </RunSettings>
